@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Cliente>
+  <nome>Alessandro Avelino Cavalcante</nome>
+  <identidade>75456546</identidade>
+  <cpf>76009211387</cpf>
+  <telefone>54646546565</telefone>
+  <email>avelinoalessandro@gmail.com</email>
+  <cep>60348-12</cep>
+  <logradouro>Avenida E</logradouro>
+  <numero>26</numero>
+  <complemento>(Cj Beira Rio)</complemento>
+  <bairro>Vila Velha</bairro>
+  <cidade>Fortaleza</cidade>
+  <uf>CE</uf>
+  <pais>Brasil</pais>
+</Cliente>
